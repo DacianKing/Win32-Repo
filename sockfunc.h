@@ -1,3 +1,3 @@
-#include <sockfunc.cpp>
+#include "sockfunc.cpp"
 
 char *SendHTTPRequest();
